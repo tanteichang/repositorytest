@@ -1,0 +1,3 @@
+[submodule "react-native-root-toast"]
+	path = react-native-root-toast
+	url = https://github.com/magicismight/react-native-root-toast.git
