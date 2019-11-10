@@ -1,0 +1,493 @@
+{
+    "base64-js": {
+        "version": "1.3.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/beatgammit/base64-js.git"
+    },
+    "buffer": {
+        "version": "5.4.3",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/feross/buffer.git"
+    },
+    "pako": {
+        "version": "1.0.10",
+        "license": "(MIT AND Zlib)",
+        "type": "git",
+        "url": "https://github.com/nodeca/pako.git"
+    },
+    "crypto-js": {
+        "version": "3.1.9-1",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/brix/crypto-js.git"
+    },
+    "react-native-actionsheet": {
+        "version": "2.4.2",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/beefe/react-native-actionsheet.git"
+    },
+    "react-native-actionsheet-api": {
+        "version": "1.0.4",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/zdying/react-native-actionsheet-api.git"
+    },
+    "react-native-datepicker": {
+        "version": "1.7.2",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/xgfe/react-native-datepicker.git"
+    },
+    "react-native-keyboard-spacer": {
+        "version": "0.4.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git"
+    },
+    "react-native-root-toast": {
+        "version": "3.2.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/magicismight/react-native-root-toast.git"
+    },
+    "react-native-swipe-list-view": {
+        "version": "2.0.3",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/jemise111/react-native-swipe-list-view.git"
+    },
+    "d3-array": {
+        "version": "2.3.3",
+        "license": "BSD-3-Clause",
+        "type": "git",
+        "url": "https://github.com/d3/d3-array.git"
+    },
+    "d3-scale": {
+        "version": "3.2.0",
+        "license": "BSD-3-Clause",
+        "type": "git",
+        "url": "https://github.com/d3/d3-scale.git"
+    },
+    "d3-shape": {
+        "version": "1.3.5",
+        "license": "BSD-3-Clause",
+        "type": "git",
+        "url": "https://github.com/d3/d3-shape.git"
+    },
+    "react-native-easy-toast": {
+        "version": "1.2.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/crazycodeboy/react-native-easy-toast.git"
+    },
+    "react-redux": {
+        "version": "7.1.3",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/reduxjs/react-redux.git"
+    },
+    "redux": {
+        "version": "4.0.4",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/reduxjs/redux.git"
+    },
+    "reselect": {
+        "version": "4.0.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/reduxjs/reselect.git"
+    },
+    "util": {
+        "version": "0.12.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/browserify/node-util.git"
+    },
+    "react-native-localization": {
+        "version": "2.1.6",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/stefalda/ReactNativeLocalization.git"
+    },
+    "react-native-picker": {
+        "version": "4.3.7",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/beefe/react-native-picker.git"
+    },
+    "react-native-pickers": {
+        "version": "2.0.0",
+        "license": "ISC",
+        "type": "git",
+        "url": "https://github.com/iberHK/react-native-picker.git"
+    },
+    "react-native-popup-dialog": {
+        "version": "0.18.3",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/jacklam718/react-native-popup-dialog.git"
+    },
+    "react-native-scrollable-tab-view": {
+        "version": "1.0.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/brentvatne/react-native-scrollable-tab-view.git"
+    },
+    "babel-plugin-transform-remove-console": {
+        "version": "6.9.4",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/babel/minify/tree/master/packages/babel-plugin-transform-remove-console"
+    },
+    "d3-interpolate": {
+        "version": "1.3.2",
+        "license": "BSD-3-Clause",
+        "type": "git",
+        "url": "https://github.com/d3/d3-interpolate.git"
+    },
+    "lodash.range": {
+        "version": "3.2.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/lodash/lodash.git"
+    },
+    "react-native-modalbox": {
+        "version": "2.0.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/maxs15/react-native-modalbox.git"
+    },
+    "react-native-slider": {
+        "version": "0.11.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/jeanregisser/react-native-slider.git"
+    },
+    "react-native-animatable": {
+        "version": "1.3.3",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/oblador/react-native-animatable.git"
+    },
+    "react-native-animated-overlay": {
+        "version": "0.0.10",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/jacklam718/react-native-animated-overlay.git"
+    },
+    "react-native-root-siblings": {
+        "version": "4.0.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/magicismight/react-native-root-siblings.git"
+    },
+    "react-native-select-dialog": {
+        "version": "1.2.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/antiantian/react-native-zDialog-List.git"
+    },
+    "redux-actions": {
+        "version": "2.6.5",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/redux-utilities/redux-actions.git"
+    },
+    "redux-promise": {
+        "version": "0.6.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/redux-utilities/redux-promise.git"
+    },
+    "react-native-sortable-list": {
+        "version": "0.0.23",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/gitim/react-native-sortable-list.git"
+    },
+    "react-native-sortable-listview": {
+        "version": "0.2.9",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/deanmcpherson/react-native-sortable-listview.git"
+    },
+    "react-native-iphone-x-helper": {
+        "version": "1.2.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/ptelad/react-native-iphone-x-helper.git"
+    },
+    "react-native-shadow": {
+        "version": "1.2.2",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/879479119/react-native-shadow.git"
+    },
+    "moment": {
+        "version": "2.24.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/moment/moment.git"
+    },
+    "react-native-nordic-dfu": {
+        "version": "3.0.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/Pilloxa/react-native-nordic-dfu.git"
+    },
+    "react-native-loading-spinner-overlay": {
+        "version": "1.0.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/joinspontaneous/react-native-loading-spinner-overlay.git"
+    },
+    "react-native-swipeout": {
+        "version": "2.3.6",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/dancormier/react-native-swipeout.git"
+    },
+    "react-native-overlayer": {
+        "version": "0.2.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/yongqianvip/react-native-overlayer.git"
+    },
+    "react-native-swipeable": {
+        "version": "0.6.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/jshanson7/react-native-swipeable.git"
+    },
+    "lodash": {
+        "version": "4.17.15",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/lodash/lodash.git"
+    },
+    "react-native-root-tips": {
+        "version": "1.0.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/openUmbrella/react-native-root-tips.git"
+    },
+    "react-native-modal": {
+        "version": "11.5.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/react-native-community/react-native-modal.git"
+    },
+    "prop-types": {
+        "version": "15.7.2",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/facebook/prop-types.git"
+    },
+    "react-navigation-redux-helpers": {
+        "version": "4.0.1",
+        "license": "BSD-2-Clause",
+        "url": "git+ssh://git@github.com/react-navigation/redux-helpers.git",
+        "type": "git"
+    },
+    "react-native-image-capinsets": {
+        "version": "0.5.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/madsleejensen/react-native-image-capinsets.git"
+    },
+    "react-native-draggable-flatlist": {
+        "version": "1.1.9",
+        "license": "ISC",
+        "type": "git",
+        "url": "https://github.com/computerjazz/react-native-draggable-flatlist.git"
+    },
+    "iconv-lite": {
+        "version": "0.5.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/ashtuchkin/iconv-lite.git"
+    },
+    "safe-buffer": {
+        "version": "5.2.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/feross/safe-buffer.git"
+    },
+    "react-native-blur": {
+        "version": "3.2.2",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/react-native-community/react-native-blur.git"
+    },
+    "react-native-progress": {
+        "version": "4.0.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/oblador/react-native-progress.git"
+    },
+    "lottie-react-native": {
+        "version": "3.2.1",
+        "license": "Apache-2.0",
+        "type": "git",
+        "url": "https://github.com/react-native-community/lottie-react-native.git"
+    },
+    "react-native-animation": {
+        "version": "1.0.7",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/zhang740/react-native-animation.git"
+    },
+    "react-native-page-control": {
+        "version": "1.1.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/silentcloud/react-native-page-control.git"
+    },
+    "react-native-picker-select": {
+        "version": "6.3.3",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/lawnstarter/react-native-picker-select.git"
+    },
+    "rc-slider": {
+        "version": "8.7.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/react-component/slider.git"
+    },
+    "react-native-extra-dimensions-android": {
+        "version": "1.2.5",
+        "license": "ISC",
+        "type": "git",
+        "url": "https://github.com/Sunhat/react-native-extra-dimensions-android.git"
+    },
+    "@dudigital/react-native-zoomable-view": {
+        "version": "1.0.14",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/DuDigital/react-native-zoomable-view.git"
+    },
+    "google-protobuf": {
+        "version": "3.10.0",
+        "license": "BSD-3-Clause",
+        "type": "git",
+        "url": "https://github.com/protocolbuffers/protobuf/tree/master/js"
+    },
+    "hmacsha1": {
+        "version": "1.0.0",
+        "license": "BSD",
+        "type": "git",
+        "url": "https://github.com/pH-minamo/hmacsha1-js.git"
+    },
+    "javascript-state-machine": {
+        "version": "3.1.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/jakesgordon/javascript-state-machine.git"
+    },
+    "react-native-calendar-picker": {
+        "version": "6.0.2",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/stephy/CalendarPicker.git"
+    },
+    "react-native-calendars": {
+        "version": "1.212.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/wix/react-native-calendars.git"
+    },
+    "react-native-perspective-image-cropper": {
+        "version": "0.4.3",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper.git"
+    },
+    "react-native-pinch-zoom-view": {
+        "version": "0.2.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/GuoChen-WHU/react-native-pinch-zoom-view.git"
+    },
+    "url-parse": {
+        "version": "1.4.7",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/unshiftio/url-parse.git"
+    },
+    "native-echarts": {
+        "version": "0.5.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/somonus/react-native-echarts.git"
+    },
+    "ramda": {
+        "version": "0.26.1",
+        "license": "MIT",
+        "type": "git",
+        "url": "git://github.com/ramda/ramda.git"
+    },
+    "react-native-particles": {
+        "version": "0.0.7",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/nanndoj/react-native-particles.git"
+    },
+    "teaset": {
+        "version": "0.7.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/rilyu/teaset.git"
+    },
+    "react-native-draggable-dynamic-flatlist": {
+        "version": "1.0.2",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/thomasrovayaz/react-native-draggable-dynamic-flatlist.git"
+    },
+    "react-native-drag-sort": {
+        "version": "1.3.6",
+        "license": "ISC",
+        "type": "git",
+        "url": "https://github.com/mochixuan/react-native-drag-sort.git"
+    },
+    "js-md5": {
+        "version": "0.7.3",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/emn178/js-md5.git"
+    },
+    "react-native-deprecated-custom-components": {
+        "version": "0.1.2",
+        "type": "git",
+        "url": "git+ssh://git@github.com/facebookarchive/react-native-custom-components.git"
+    },
+    "react-native-ui-kitten": {
+        "version": "4.2.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/akveo/react-native-ui-kitten.git"
+    },
+    "rmc-picker": {
+        "version": "5.0.10",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/react-component/m-picker.git"
+    },
+    "react-native-waveview": {
+        "version": "1.1.0",
+        "license": "MIT",
+        "type": "git",
+        "url": "https://github.com/CubeSugar/react-native-waveview.git"
+    },
+    "react-native": {
+        "version": "0.61.4",
+        "license": "MIT",
+        "type": "git",
+        "url": "git+ssh://git@github.com/facebook/react-native.git"
+    }
+}
