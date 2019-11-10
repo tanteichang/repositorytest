@@ -1,0 +1,26 @@
+{
+  "name": "repositorytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanteichang/repositorytest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanteichang/repositorytest/issues"
+  },
+  "homepage": "https://github.com/tanteichang/repositorytest#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.7"
+  }
+}
